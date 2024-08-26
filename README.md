@@ -12,7 +12,7 @@ Ao iniciar o sistema, o usuário deve cadastrar os 10 produtos comercializados p
 
 - **Nome do produto**
 - **Preço de custo**
-- **No atual momento está com quantidade de produtos fixa**
+- **(No atual momento está rodando com quantidade fixa de produtos(10))**
 
 ### Menu Principal
 
